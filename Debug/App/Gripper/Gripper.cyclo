@@ -1,0 +1,11 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+Configuration.h:69:4:ResponseToHost::ResponseToHost()	1
+Configuration.h:70:5:ResponseToHost::~ResponseToHost()	1
+Gripper.cpp:18:1:Gripper::Gripper()	1
+Gripper.cpp:22:6:void Gripper::initGripper()	1
+Gripper.cpp:44:7:float Gripper::mapfloat(float, float, float, float, float)	1
+Gripper.cpp:48:6:void Gripper::pidStep()	3
+Gripper.cpp:73:6:void Gripper::setMotor()	3
+Gripper.cpp:92:6:void Gripper::calibrateGripper()	7
+Gripper.cpp:164:7:float Gripper::measureCurrent(int)	2
+Gripper.cpp:172:6:void Gripper::distribute(CommandFromHost)	9

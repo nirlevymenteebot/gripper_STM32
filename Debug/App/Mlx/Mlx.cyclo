@@ -1,0 +1,7 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+Configuration.h:69:4:ResponseToHost::ResponseToHost()	1
+Configuration.h:70:5:ResponseToHost::~ResponseToHost()	1
+Mlx.cpp:10:1:Mlx::Mlx(uint16_t)	1
+Mlx.cpp:14:6:void Mlx::init_mlx()	1
+Mlx.cpp:39:6:void Mlx::read()	1
+Mlx.cpp:67:6:void Mlx::distribute(CommandFromHost)	2

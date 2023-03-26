@@ -1,0 +1,2 @@
+/home/nir/code/gripper/gripper_st/App/Hardware.cpp:12:6:void Hardware::init()	16	static
+/home/nir/code/gripper/gripper_st/App/Hardware.cpp:17:10:uint32_t Hardware::now()	16	static
